@@ -5,7 +5,7 @@ Estudante de Ciência da Computação na Universidade Federal de Uberlândia (UF
 
 ### ✨ Linguagens de programação
 
-![C](https://img.shields.io/badge/C-A7002F?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-A7002F?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-A7002F?style=for-the-badge&logo=python&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-A7002F?style=for-the-badge&logo=haskell) ![Prolog](https://img.shields.io/badge/Prolog-A7002F?style=for-the-badge) ![MIPS Assembly](https://img.shields.io/badge/MIPS_Assembly-A7002F?style=for-the-badge)
+![C](https://img.shields.io/badge/C-A7002F?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-A7002F?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/R-A7002F?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-A7002F?style=for-the-badge&logo=python&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-A7002F?style=for-the-badge&logo=haskell) ![Prolog](https://img.shields.io/badge/Prolog-A7002F?style=for-the-badge) ![MIPS Assembly](https://img.shields.io/badge/MIPS_Assembly-A7002F?style=for-the-badge)
 
 
 ### ✨ Outros
