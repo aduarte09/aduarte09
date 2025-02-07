@@ -35,6 +35,10 @@ Estudante de Ciência da Computação na Universidade Federal de Uberlândia (UF
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F4623B?style=for-the-badge&logo=postgresql)
 --->
 
+<!---
+badges >>> https://github.com/aduarte09/dio-lab-open-source/blob/main/utils/badges/badges.md
+--->
+
 ### Estatísticas no GitHub
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aduarte09&layout=compact&bg_color=000&border_color=000&title_color=FFF&text_color=FFF)
